@@ -1,10 +1,11 @@
 # 👋 Hey, I'm Waqar Niyazi  
 
 > 🚀 Builder | 📈 SEO & Marketing Strategist | 💻 Web Developer | 🎸 Guitarist | 🌏 Explorer
-> 📌 Check out my work & journey here: [**waqarniyazi.me**](https://waqarniyazi.me)  
 
 I'm a **product-focused builder** passionate about creating tools that make AI, tech, and productivity more **accessible and user-friendly**.  
 From **SEO & content strategy** to **full-stack development**, I bridge the gap between **visibility** and **usability**.  
+
+📌 Check out my work & journey here: [**waqarniyazi.me**](https://waqarniyazi.me)  
 
 ---
 ## 📊 Coding Stats  
