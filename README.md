@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Waqar Niyazi  
 
-> 🚀 Builder | 📈 SEO & Marketing Strategist | 💻 Web Developer | 🎸 Guitarist | 🌏 Explorer  
+> 🚀 Builder | 📈 SEO & Marketing Strategist | 💻 Web Developer | 🎸 Guitarist | 🌏 Explorer
+> 📌 Check out my work & journey here: [**waqarniyazi.me**](https://waqarniyazi.me)  
 
 I'm a **product-focused builder** passionate about creating tools that make AI, tech, and productivity more **accessible and user-friendly**.  
 From **SEO & content strategy** to **full-stack development**, I bridge the gap between **visibility** and **usability**.  
@@ -35,6 +36,7 @@ From **SEO & content strategy** to **full-stack development**, I bridge the gap 
 ## 🚀 Featured Projects  
 
 🔹 **[AIportalX](https://aiporalx.com)** – Database of AI models, tasks & tools for beginners and professionals 
+
 🔹 **[ReHaulX](https://rehaulx.com)** – Repurpose Videos into Multi-Format Written Content
 
 **ReHaulX** is your AI-powered assistant for turning YouTube videos into ready-to-publish written assets—all in seconds.
@@ -55,6 +57,7 @@ From **SEO & content strategy** to **full-stack development**, I bridge the gap 
 
 ---
 
+## Other Projects  
 
 🔹 **LaunchHubX** – A launch directory + AI assistant for founders to create better landing pages  
 🔹 **ResumeBuilderX** – AI-assisted resume builder to craft job-ready profiles  
@@ -82,9 +85,9 @@ From **SEO & content strategy** to **full-stack development**, I bridge the gap 
 ## 🌟 Let's Connect  
 
 - 🌍 Portfolio: [waqarniyazi.me](https://waqarniyazi.me)  
-- 💼 LinkedIn: [linkedin.com/in/waqar-niyazi](https://linkedin.com/in/waqar-niyazi)  
-- 🐦 Twitter: [@WaqarNiyazi_](https://twitter.com/WaqarNiyazi_)  
-- 📧 Email: waqarniyazi.work@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/waqar-niyazi](https://linkedin.com/in/waqarniyazi)  
+- 🐦 Twitter: [@WaqarNiyazi_](https://x.com/NiyaziWaqar_)  
+- 📧 Email: me@waqarniyazi.me 
 
 ---
 
