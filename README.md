@@ -72,14 +72,26 @@ From **SEO & content strategy** to **full-stack development**, I bridge the gap 
 
 ## ⚡ Tech Stack  
 
-**Languages & Frameworks**  
-- Next.js | React | TypeScript | JavaScript | Node.js  
+**🧩 Languages & Frameworks**  
+Next.js · React · TypeScript · JavaScript · Node.js · Python  
 
-**Databases & Tools**  
-- MongoDB | Supabase | Sanity CMS | Clerk | Razorpay  
+**🗄️ Databases & Tools**  
+MongoDB · Supabase · Postgres SQL · Redis · SQL · Mongoose · Sanity CMS · Clerk · Razorpay · Heroku · Docker  
 
-**Design & SEO**  
-- Figma | UI/UX | On-Page SEO | Content Strategy  
+**🤖 AI, Automation & Analytics**  
+OpenAI · Gemini · LangChain · Llama 3.1 · Ollama · TogetherAI · n8n · Posthog · Google Analytics 4 · Google Search Console · Deepseek · Composio.dev  
+
+**🎨 Design, Product & SEO**  
+Figma · Framer Motion · UI/UX · Product Design · On-Page SEO · Content Strategy · Growth Marketing · Google Trends · Ahrefs · SEMrush · SimilarWeb  
+
+**🧱 Frontend Libraries & UI Systems**  
+Tailwind CSS · Shadcn UI · Radix UI · React Hook Form · Zod · Redux  
+
+**🧰 Version Control & Deployment**  
+Git · GitHub Copilot · VS Code · Vercel · Notion · Jira  
+
+**⚙️ Other Tools & Integrations**  
+Markdown · AI Inference · CMS Management · Automation Workflows  
 
 ---
 
